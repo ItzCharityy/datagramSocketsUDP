@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Leecher",
+            "request": "launch",
+            "mainClass": "acsse.csc2b.backend.Leecher",
+            "projectName": "datagramSocketsUDP_c17d6fe8"
+        },
+        {
+            "type": "java",
+            "name": "Seeder",
+            "request": "launch",
+            "mainClass": "acsse.csc2b.backend.Seeder",
+            "projectName": "datagramSocketsUDP_c17d6fe8"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFX App",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "--module-path C:\\javafx-sdk-21\\lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media"
+        }
+    ]
+  }
+  
